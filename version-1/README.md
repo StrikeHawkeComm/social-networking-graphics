@@ -1,4 +1,4 @@
-# Google+ Hangouts Lower Third Free PhotoShop File 1280 by 720
+# Free Google+ Hangouts Lower Third PhotoShop File 1280 by 720
 ## Blue-Grey Dither by Denver Prophit Jr.
 
 This free file will help you brand your google hangouts on air lower third branding. 
