@@ -5,5 +5,7 @@ The PSD file for Photoshop requires the installation of the two TTF files includ
 
 If you want to expand the design, **fork it** and submit a pull request as a new folder.
 
+The image is 1280px by 720px with a transparent background
+
 ----------
-![Thumbnail Version 1](https://github.com/inetbiz/Hangout-lower-thirds/blob/master/version-1/version-1.png)
+![Screen representation](https://raw.githubusercontent.com/inetbiz/Hangout-lower-thirds/master/version-1/version-1.png)
