@@ -1,10 +1,9 @@
-# Blue-Grey Dither Full Square
-## For Google+ Hangouts Lower Thirds
+# Google+ Hangouts Lower Third Free PhotoShop File 1280 by 720
+## Blue-Grey Dither by Denver Prophit Jr.
 
-The PSD file for Photoshop requires the installation of the two TTF files included in this folder.
-
-If you want to expand the design, **fork it** and submit a pull request as a new folder.
-
+This free file will help you brand your google hangouts on air lower third branding. 
+The Photoshop file requires the installation of the two TTF files included in this free contribution. 
+If you want to expand the design, **fork it** and submit a pull request as a new folder. 
 The image is 1280px by 720px with a transparent background
 
 ### Current Contributors:
